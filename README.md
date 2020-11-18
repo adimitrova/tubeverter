@@ -3,4 +3,4 @@
 description
 
 ## Branching and versioning strategy
-<img src="img/branching_versioning.png" alt="drawing" width="700"/>
+<img src="img/branching_versioning.png" alt="drawing" width="900"/>
